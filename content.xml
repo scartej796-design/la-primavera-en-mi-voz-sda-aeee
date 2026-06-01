@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260601172147VOSRF0</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026060117214763XOYL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La primavera en mi voz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Contamos la primavera</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sara Carrillo Tejero</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Presentamos una Situación de Aprendizaje adaptada para el Aula Específica de Educación Especial (AEEE). El proyecto une la estimulación sensorial con el uso de la tecnología para dar voz y autonomía al alumnado sin lenguaje oral.
+A través de sus comunicadores en Asterics Grids y la IA de Gemini, los alumnos co-crearán un cuento primaveral personalizado. Todo el recurso está diseñado bajo los principios del DUA, garantizando la máxima accesibilidad, la inclusión y el derecho a la comunicación de todo el grupo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780327021982</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780313395382-ay1v1jax4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>0. Guía didáctica</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313395382-ay1v1jax4</odePageId>
+      <odeBlockId>block-1780324921803-simcpjizz</odeBlockId>
+      <blockName>¿Qué debemos saber?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313395382-ay1v1jax4</odePageId>
+          <odeBlockId>block-1780324921803-simcpjizz</odeBlockId>
+          <odeIdeviceId>idevice-1780324921801-anl35vgms</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta guía está dirigida al profesorado especialistas en Audición y Lenguaje, Pedagogía Terapéutica o cualquier docente que desee replicar, adaptar o inspirarse en esta Situación de Aprendizaje (SdA). Su objetivo es ofrecer una visión clara de la vinculación curricular y proporcionar las pautas metodológicas necesarias para garantizar el éxito del proyecto en un entorno de necesidades educativas complejas.</p>
+<p><strong>1. Conexión Curricular y Áreas de Conocimiento</strong><br />Aunque el proyecto se adapta de manera individualizada en las Adaptaciones Curriculares Individualizadas (ACI) de cada alumno/a, tomamos como referencia las competencias específicas de la etapa para vertebrar la experiencia:</p>
+<p><strong><em>Área Descubrimiento y Exploración del Entorno</em></strong>. Se centra en la interacción con el medio natural, el paso del tiempo y el despertar de los sentidos a través de los elementos de la primavera.<br /><em><strong>Área Comunicación y Representación de la Realidad</strong></em>. Eje fundamental del proyecto. Abarca el uso funcional de los Sistemas Alternativos y Aumentativos de Comunicación (SAAC) y la expresión creativa mediante lenguajes digitales y artísticos.</p>
+<p><br /><strong>2. Vinculación de Tareas y Criterios de Evaluación</strong><br />A continuación, se presenta la matriz que relaciona las actividades clave del proyecto con sus correspondientes criterios de evaluación evaluados a través de nuestra rúbrica de grados de apoyo:</p>
+<p> <img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-01 164346.png" title="Vinculación de actividades y criterios" width="377" height="463" alt="Se presenta la matriz que relaciona las actividades clave del proyecto con sus correspondientes criterios de evaluación evaluados a través de nuestra rúbrica de grados de apoyo" /><br /><br /><strong>3. Orientaciones y Recomendaciones para la Aplicación en el Aula</strong><br />Para llevar a cabo este proyecto con las máximas garantías de inclusión y accesibilidad (DUA), se aconseja al profesorado tener en cuenta las siguientes pautas de aula:</p>
+<ul>
+<li><strong>Gestión de la fatiga cognitiva y motriz:</strong> El uso de dispositivos digitales (tablets, pantallas interactivas) requiere una alta demanda atencional y de control muscular. Se recomienda alternar las sesiones digitales con las fases de estimulación manipulativa o asamblea física. Las tareas de interacción con la tablet no deben superar los 15-20 minutos por alumno.</li>
+<li><strong>Configuración previa de los SAAC (Asterics Grids): </strong>Antes de iniciar la interacción con la Inteligencia Artificial (Gemini), el docente debe revisar los paneles de comunicación. Para el alumnado con mayor afectación, es imprescindible reducir los estímulos visuales (paneles de barrido de 2 o 4 opciones de pictogramas). Para el alumnado con mayor destreza, se pueden habilitar categorías descriptivas (colores, tamaños, emociones).</li>
+<li><strong>El rol del docente como mediador de la IA</strong>: Dado que el alumnado del aula específica no realiza la escritura directa en el prompt de Gemini, la maestra o maestro actuará como "puente". El alumno seleccionará los pictogramas de su comunicador (ej: Mariposa + Volar + Contento) y el docente verbalizará y trasladará esa orden a la IA: "Gemini, escribe un cuento corto sobre una mariposa que vuela muy contenta en primavera".</li>
+<li><strong>Accesibilidad Física y Perceptiva:</strong> Asegurar que los botones en las plantillas de Canva sean lo suficientemente grandes para evitar falsas pulsaciones debidas a la imprecisión motriz. Si algún alumno/a presenta dificultades graves de acceso por pulsación simple, se debe prever el uso de pulsadores externos adaptados conectados por Bluetooth.</li>
+<li><strong>Agrupamientos funcionales</strong>: Fomentar el trabajo por parejas con dinámicas de tutoría entre iguales cuando se comparta el espacio con aulas ordinarias (inclusión inversa). La presencia de un compañero tutor agiliza la manipulación del ratón o teclado en Canva, permitiendo que nuestro alumno se centre exclusivamente en la toma de decisiones comunicativas.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780324921801-anl35vgms","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía está dirigida al profesorado especialistas en Audición y Lenguaje, Pedagogía Terapéutica o cualquier docente que desee replicar, adaptar o inspirarse en esta Situación de Aprendizaje (SdA). Su objetivo es ofrecer una visión clara de la vinculación curricular y proporcionar las pautas metodológicas necesarias para garantizar el éxito del proyecto en un entorno de necesidades educativas complejas.</p>\n<p><strong>1. Conexión Curricular y Áreas de Conocimiento</strong><br />Aunque el proyecto se adapta de manera individualizada en las Adaptaciones Curriculares Individualizadas (ACI) de cada alumno/a, tomamos como referencia las competencias específicas de la etapa para vertebrar la experiencia:</p>\n<p><strong><em>Área Descubrimiento y Exploración del Entorno</em></strong>. Se centra en la interacción con el medio natural, el paso del tiempo y el despertar de los sentidos a través de los elementos de la primavera.<br /><em><strong>Área Comunicación y Representación de la Realidad</strong></em>. Eje fundamental del proyecto. Abarca el uso funcional de los Sistemas Alternativos y Aumentativos de Comunicación (SAAC) y la expresión creativa mediante lenguajes digitales y artísticos.</p>\n<p><br /><strong>2. Vinculación de Tareas y Criterios de Evaluación</strong><br />A continuación, se presenta la matriz que relaciona las actividades clave del proyecto con sus correspondientes criterios de evaluación evaluados a través de nuestra rúbrica de grados de apoyo:</p>\n<p> <img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-01 164346.png\" title=\"Vinculación de actividades y criterios\" width=\"377\" height=\"463\" alt=\"Se presenta la matriz que relaciona las actividades clave del proyecto con sus correspondientes criterios de evaluación evaluados a través de nuestra rúbrica de grados de apoyo\" /><br /><br /><strong>3. Orientaciones y Recomendaciones para la Aplicación en el Aula</strong><br />Para llevar a cabo este proyecto con las máximas garantías de inclusión y accesibilidad (DUA), se aconseja al profesorado tener en cuenta las siguientes pautas de aula:</p>\n<ul>\n<li><strong>Gestión de la fatiga cognitiva y motriz:</strong> El uso de dispositivos digitales (tablets, pantallas interactivas) requiere una alta demanda atencional y de control muscular. Se recomienda alternar las sesiones digitales con las fases de estimulación manipulativa o asamblea física. Las tareas de interacción con la tablet no deben superar los 15-20 minutos por alumno.</li>\n<li><strong>Configuración previa de los SAAC (Asterics Grids): </strong>Antes de iniciar la interacción con la Inteligencia Artificial (Gemini), el docente debe revisar los paneles de comunicación. Para el alumnado con mayor afectación, es imprescindible reducir los estímulos visuales (paneles de barrido de 2 o 4 opciones de pictogramas). Para el alumnado con mayor destreza, se pueden habilitar categorías descriptivas (colores, tamaños, emociones).</li>\n<li><strong>El rol del docente como mediador de la IA</strong>: Dado que el alumnado del aula específica no realiza la escritura directa en el prompt de Gemini, la maestra o maestro actuará como \"puente\". El alumno seleccionará los pictogramas de su comunicador (ej: Mariposa + Volar + Contento) y el docente verbalizará y trasladará esa orden a la IA: \"Gemini, escribe un cuento corto sobre una mariposa que vuela muy contenta en primavera\".</li>\n<li><strong>Accesibilidad Física y Perceptiva:</strong> Asegurar que los botones en las plantillas de Canva sean lo suficientemente grandes para evitar falsas pulsaciones debidas a la imprecisión motriz. Si algún alumno/a presenta dificultades graves de acceso por pulsación simple, se debe prever el uso de pulsadores externos adaptados conectados por Bluetooth.</li>\n<li><strong>Agrupamientos funcionales</strong>: Fomentar el trabajo por parejas con dinámicas de tutoría entre iguales cuando se comparta el espacio con aulas ordinarias (inclusión inversa). La presencia de un compañero tutor agiliza la manipulación del ratón o teclado en Canva, permitiendo que nuestro alumno se centre exclusivamente en la toma de decisiones comunicativas.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313189549-2al8g8pwb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313189549-2al8g8pwb</odePageId>
+      <odeBlockId>block-1780313608216-q74gu3b37</odeBlockId>
+      <blockName>¿En qué consiste nuestro proyecto?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313189549-2al8g8pwb</odePageId>
+          <odeBlockId>block-1780313608216-q74gu3b37</odeBlockId>
+          <odeIdeviceId>idevice-1780313608214-qpd1vt6u2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace encontramos la presentación y descripción del proyecto:</p>
+<p><a href="https://canva.link/32vittk4u75rxxo" title="">Presentación y descripción del proyecto en Canva</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780313608214-qpd1vt6u2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace encontramos la presentación y descripción del proyecto:</p>\n<p><a href=\"https://canva.link/32vittk4u75rxxo\" title=\"\">Presentación y descripción del proyecto en Canva</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313212520-h57yw3l1m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Información sobre protección digital</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Información sobre protección digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313212520-h57yw3l1m</odePageId>
+      <odeBlockId>block-1780313774663-xe834n2fq</odeBlockId>
+      <blockName>¿Cómo fomentamos nuestra seguridad digital en el Aula Específica?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313212520-h57yw3l1m</odePageId>
+          <odeBlockId>block-1780313774663-xe834n2fq</odeBlockId>
+          <odeIdeviceId>idevice-1780313774661-gwqv6ult3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se exhiben las normas con su adaptación a pictogramas sobre el uso adecuado y seguro del uso de la Tablet con nuestro comunicador:</p>
+<p><a href="https://canva.link/t596lwj9ixcpaa5" title="">Infografía normas digitales en Canva</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780313774661-gwqv6ult3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se exhiben las normas con su adaptación a pictogramas sobre el uso adecuado y seguro del uso de la Tablet con nuestro comunicador:</p>\n<p><a href=\"https://canva.link/t596lwj9ixcpaa5\" title=\"\">Infografía normas digitales en Canva</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313253823-1un1s7fpr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Descripción del producto final</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313253823-1un1s7fpr</odePageId>
+      <odeBlockId>block-1780322751670-cbggbhlya</odeBlockId>
+      <blockName>¿Qué producto final realizaremos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313253823-1un1s7fpr</odePageId>
+          <odeBlockId>block-1780322751670-cbggbhlya</odeBlockId>
+          <odeIdeviceId>idevice-1780322751664-3gjhp6ohv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestro proyecto se centra en la primavera, trabajando con un grupo muy heterogéneo de 6 alumnos y alumnas (4-12 años) con Necesidades Educativas Especiales (NEE). Para la realización del producto final que consiste en un mural y un cuento primaveral, he seleccionado dos herramientas principales: </p>
+<ul>
+<li><strong>Gemini</strong>: le proporcionamos la descripción de personajes, lugares e historia para que cree y diseñe las imagenes de nuestro cuento. Así pues, se usa como un "puente lingüístico". Dado que mi alumnado utiliza SAAC (Asterics Grids) y muchos no tienen lenguaje oral, usaremos la IA para expandir las palabras clave que ellos seleccionen en sus tablets (ej. "pájaro", "alegre", "volar") y convertirlas en una narrativa coherente y mágica.</li>
+<li><strong>Canva</strong>: Para la composición visual del mural, integrando imágenes, pictogramas y texto. Organizamos de forma visual y atractiva los aprendizajes sobre el ciclo de las plantas, la fauna y la vestimenta, fomentando la competencia digital a través de la selección y arrastre de elementos (andamiaje visual).</li>
+</ul>
+<p></p>
+<p>La elección responde directamente al <strong>Diseño Universal para el Aprendizaje</strong> (DUA):</p>
+<ul>
+<li><strong>Versatilidad</strong>: Canva permite integrar audio y vídeo, algo fundamental para que el alumnado pueda "escuchar" su propio cuento, compensando las dificultades de lectura mecánica.</li>
+<li><strong>Multinivel</strong>: al tener niveles de Infantil y 1º de Primaria, la interfaz intuitiva de estas herramientas permite una participación activa. La IA, por su parte, reduce la carga cognitiva en la creación literaria, permitiendo que el alumnado se centre en la toma de decisiones creativas a través de sus comunicadores.</li>
+<li><strong>Accesibilidad</strong>: ambas herramientas propician la participación, presencia y progreso de todo el alumnado, de su lenguaje dejan su huella en el mural.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780322751664-3gjhp6ohv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestro proyecto se centra en la primavera, trabajando con un grupo muy heterogéneo de 6 alumnos y alumnas (4-12 años) con Necesidades Educativas Especiales (NEE). Para la realización del producto final que consiste en un mural y un cuento primaveral, he seleccionado dos herramientas principales: </p>\n<ul>\n<li><strong>Gemini</strong>: le proporcionamos la descripción de personajes, lugares e historia para que cree y diseñe las imagenes de nuestro cuento. Así pues, se usa como un \"puente lingüístico\". Dado que mi alumnado utiliza SAAC (Asterics Grids) y muchos no tienen lenguaje oral, usaremos la IA para expandir las palabras clave que ellos seleccionen en sus tablets (ej. \"pájaro\", \"alegre\", \"volar\") y convertirlas en una narrativa coherente y mágica.</li>\n<li><strong>Canva</strong>: Para la composición visual del mural, integrando imágenes, pictogramas y texto. Organizamos de forma visual y atractiva los aprendizajes sobre el ciclo de las plantas, la fauna y la vestimenta, fomentando la competencia digital a través de la selección y arrastre de elementos (andamiaje visual).</li>\n</ul>\n<p></p>\n<p>La elección responde directamente al <strong>Diseño Universal para el Aprendizaje</strong> (DUA):</p>\n<ul>\n<li><strong>Versatilidad</strong>: Canva permite integrar audio y vídeo, algo fundamental para que el alumnado pueda \"escuchar\" su propio cuento, compensando las dificultades de lectura mecánica.</li>\n<li><strong>Multinivel</strong>: al tener niveles de Infantil y 1º de Primaria, la interfaz intuitiva de estas herramientas permite una participación activa. La IA, por su parte, reduce la carga cognitiva en la creación literaria, permitiendo que el alumnado se centre en la toma de decisiones creativas a través de sus comunicadores.</li>\n<li><strong>Accesibilidad</strong>: ambas herramientas propician la participación, presencia y progreso de todo el alumnado, de su lenguaje dejan su huella en el mural.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313257198-edu594rbl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Herramientas de curación de contenido</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Herramientas de curación de contenido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313257198-edu594rbl</odePageId>
+      <odeBlockId>block-1780314021408-e74qhlhu9</odeBlockId>
+      <blockName>¿Qué herramientas hemos usado para la curación de contenido?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313257198-edu594rbl</odePageId>
+          <odeBlockId>block-1780314021408-e74qhlhu9</odeBlockId>
+          <odeIdeviceId>idevice-1780314021406-087fk4s34</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hemos empleado las herramientas de Symbaloo y Padlet para la curación de contenido:<br title="Symbaloo canciones, vocabulario y actividades" /></p>
+<p><strong>ALUMNADO</strong><br />En primer lugar, usaremos symbaloo para trabajar las canciones sobre la primavera y estaciones, vídeos sobre el vocabulario de la primavera empleando la metodología TEACCH y realización de actividades de atención, memoria, lectoescritura, etc.<br /><a href="https://www.symbaloo.com/shared/AAAABklqNsAAA42ADtNRrw==" title="">Symbaloo canciones, vocabulario y actividades</a></p>
+<p>En segundo lugar, aprendemos mediante un mapa mental las flores típicas de la primavera apoyado con pictogramas y con una canción sobre las flores de la primavera.<br title="" /><a href="https://padlet.com/scartej796/my-stunning-sandbox-a7u6zcgf14egq66o">Padlet flores de primavera</a><br /></p>
+<p></p>
+<p><strong>DOCENTE</strong></p>
+<p>En tercer y último lugar, empleamos la herramienta de padlet dirigida a la gestión del aula.</p>
+<p><a href="https://padlet.com/scartej796/gestion-de-mi-aula-eithjjuklu3s5tze" title="">Padlet Gestión de mi aula</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780314021406-087fk4s34","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hemos empleado las herramientas de Symbaloo y Padlet para la curación de contenido:<br title=\"Symbaloo canciones, vocabulario y actividades\" /></p>\n<p><strong>ALUMNADO</strong><br />En primer lugar, usaremos symbaloo para trabajar las canciones sobre la primavera y estaciones, vídeos sobre el vocabulario de la primavera empleando la metodología TEACCH y realización de actividades de atención, memoria, lectoescritura, etc.<br /><a href=\"https://www.symbaloo.com/shared/AAAABklqNsAAA42ADtNRrw==\" title=\"\">Symbaloo canciones, vocabulario y actividades</a></p>\n<p>En segundo lugar, aprendemos mediante un mapa mental las flores típicas de la primavera apoyado con pictogramas y con una canción sobre las flores de la primavera.<br title=\"\" /><a href=\"https://padlet.com/scartej796/my-stunning-sandbox-a7u6zcgf14egq66o\">Padlet flores de primavera</a><br /></p>\n<p></p>\n<p><strong>DOCENTE</strong></p>\n<p>En tercer y último lugar, empleamos la herramienta de padlet dirigida a la gestión del aula.</p>\n<p><a href=\"https://padlet.com/scartej796/gestion-de-mi-aula-eithjjuklu3s5tze\" title=\"\">Padlet Gestión de mi aula</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313291607-e5cwsbllz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Línea temporal</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313291607-e5cwsbllz</odePageId>
+      <odeBlockId>block-1780322989424-hn7csf9e7</odeBlockId>
+      <blockName>¿Cómo organizamos la línea temporal para la organización?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313291607-e5cwsbllz</odePageId>
+          <odeBlockId>block-1780322989424-hn7csf9e7</odeBlockId>
+          <odeIdeviceId>idevice-1780322989424-5n825dlr6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se muestra la línea temporal del proyecto:</p>
+<p><a href="https://canva.link/w930aa4xg9cd268">Línea temporal</a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780322989424-5n825dlr6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra la línea temporal del proyecto:</p>\n<p><a href=\"https://canva.link/w930aa4xg9cd268\">Línea temporal</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313303791-flmu6je82</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313303791-flmu6je82</odePageId>
+      <odeBlockId>block-1780323817259-221et8hma</odeBlockId>
+      <blockName>¿Cómo se asocian las tareas a los criterios de evaluación?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313303791-flmu6je82</odePageId>
+          <odeBlockId>block-1780323817259-221et8hma</odeBlockId>
+          <odeIdeviceId>idevice-1780323817256-dpgryyj0q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se muestra la asociación a los criterios de evaluación:</p>
+<p><a href="https://docs.google.com/document/d/1bAahWI55pDkv2JH-aySRTQw5RGZO9u441abSXAYSYqs/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">Asociación criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780323817256-dpgryyj0q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se muestra la asociación a los criterios de evaluación:</p>\n<p><a href=\"https://docs.google.com/document/d/1bAahWI55pDkv2JH-aySRTQw5RGZO9u441abSXAYSYqs/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">Asociación criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313318872-xqewkszty</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313318872-xqewkszty</odePageId>
+      <odeBlockId>block-1780324318818-txcg7od6h</odeBlockId>
+      <blockName>¿Qué instrumentos de evaluación empleamos en la evaluación?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313318872-xqewkszty</odePageId>
+          <odeBlockId>block-1780324318818-txcg7od6h</odeBlockId>
+          <odeIdeviceId>idevice-1780324318817-nhdipvo4k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>EVALUACIÓN INICIAL:</strong></p>
+<p>En primer lugar se rellena este cuestionario para obtener las ideas previas, los conocimientos que poseen los alumnos/as, así como base para afrontar lo que voy a necesitar, los recursos previos que tengo que trabajar, etc.</p>
+<p>Se opta por una lista de cotejo dicotómica (SÍ/NO) debido a la necesidad de realizar un registro ágil en el aula. Un 'NO' en cualquiera de los indicadores del Bloque 3 (Digital) activará inmediatamente el andamiaje de accesibilidad, por ejemplo, aumentar el tamaño de los pictogramas en Canva o usar pulsadores adaptados, antes de arrancar la SdA.</p>
+<p><br title="" />Página 1 del documento: <br /></p>
+<p><a href="https://canva.link/rid6y6nrs2qfga5" title="">Instrumento de evaluación</a></p>
+<p><br /><strong>EVALUACIÓN FINAL:</strong></p>
+<p>He elegido una rúbrica con escala de tres niveles basada en los grados de apoyo porque en un aula específica la evaluación por notas numéricas o conceptos ambiguos no aporta información real. Lo que de verdad importa medir y potenciar en nuestro alumnado es su nivel de autonomía en cada tarea.</p>
+<p>Al estructurar la rúbrica de esta forma, elimino la subjetividad de valorar si algo está "bien" o "mal" y me centro en realidades 100% observables en el aula: registrar si el alumno necesita que le guíe la mano físicamente (Nivel 1), si responde a un modelado o indicación visual (Nivel 2) o si realiza la actividad de forma independiente (Nivel 3).</p>
+<p>Además de facilitarme un registro rápido mientras atiendo al grupo. Si la rúbrica indica que un alumno no sale del apoyo total, ya sé exactamente qué tipo de andamiajes y adaptaciones debo programar con el fin de ayudarle a avanzar hacia la guía visual, haciendo que la evaluación sea útil para mi práctica docente.</p>
+<p>Página 2 del documento: <br title="" /><a href="https://canva.link/rid6y6nrs2qfga5">Instrumento de evaluación</a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780324318817-nhdipvo4k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>EVALUACIÓN INICIAL:</strong></p>\n<p>En primer lugar se rellena este cuestionario para obtener las ideas previas, los conocimientos que poseen los alumnos/as, así como base para afrontar lo que voy a necesitar, los recursos previos que tengo que trabajar, etc.</p>\n<p>Se opta por una lista de cotejo dicotómica (SÍ/NO) debido a la necesidad de realizar un registro ágil en el aula. Un 'NO' en cualquiera de los indicadores del Bloque 3 (Digital) activará inmediatamente el andamiaje de accesibilidad, por ejemplo, aumentar el tamaño de los pictogramas en Canva o usar pulsadores adaptados, antes de arrancar la SdA.</p>\n<p><br title=\"\" />Página 1 del documento: <br /></p>\n<p><a href=\"https://canva.link/rid6y6nrs2qfga5\" title=\"\">Instrumento de evaluación</a></p>\n<p><br /><strong>EVALUACIÓN FINAL:</strong></p>\n<p>He elegido una rúbrica con escala de tres niveles basada en los grados de apoyo porque en un aula específica la evaluación por notas numéricas o conceptos ambiguos no aporta información real. Lo que de verdad importa medir y potenciar en nuestro alumnado es su nivel de autonomía en cada tarea.</p>\n<p>Al estructurar la rúbrica de esta forma, elimino la subjetividad de valorar si algo está \"bien\" o \"mal\" y me centro en realidades 100% observables en el aula: registrar si el alumno necesita que le guíe la mano físicamente (Nivel 1), si responde a un modelado o indicación visual (Nivel 2) o si realiza la actividad de forma independiente (Nivel 3).</p>\n<p>Además de facilitarme un registro rápido mientras atiendo al grupo. Si la rúbrica indica que un alumno no sale del apoyo total, ya sé exactamente qué tipo de andamiajes y adaptaciones debo programar con el fin de ayudarle a avanzar hacia la guía visual, haciendo que la evaluación sea útil para mi práctica docente.</p>\n<p>Página 2 del documento: <br title=\"\" /><a href=\"https://canva.link/rid6y6nrs2qfga5\">Instrumento de evaluación</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780313353177-b6tqyynhz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780313353177-b6tqyynhz</odePageId>
+      <odeBlockId>block-1780324734307-ophn14qp4</odeBlockId>
+      <blockName>Autoría, licencias y material descargable</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780313353177-b6tqyynhz</odePageId>
+          <odeBlockId>block-1780324734307-ophn14qp4</odeBlockId>
+          <odeIdeviceId>idevice-1780324734305-1uacnpc59</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso educativo abierto ha sido creado y desarrollado como producto final para la actividad formativa en Competencia Digital Docente, sirviendo como una propuesta real y transferible para las Aulas Específicas de Educación Especial (AEEE).</p>
+<p><strong>Datos del Proyecto y Autoría</strong><br />La autoría y el diseño pedagógico de esta Situación de Aprendizaje, titulada "La Primavera en mi Voz", corresponden íntegramente a Sara Carrillo Tejero, en calidad de maestra especialista en Pedagogía Terapéutica (PT) tutora de una AEEE.</p>
+<p>El proyecto ofrece una propuesta metodológica centrada en la estimulación sensorial del entorno natural inmediato y el desarrollo de la competencia comunicativa digital. A través de un enfoque basado en el Diseño Universal para el Aprendizaje (DUA), se integra el uso funcional de Sistemas Alternativos y Aumentativos de Comunicación (SAAC) mediante Asterics Grids, el diseño accesible en Canva y el apoyo de la Inteligencia Artificial con Gemini para la co-creación de historias.</p>
+<p><strong>Licencia de Uso</strong><br />Esta obra se distribuye bajo la licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Como docente, tienes total libertad para compartir, copiar, redistribuir, remezclar, transformar y crear nuevo material a partir de este proyecto para finalidad educativa. El único requisito es que reconozcas adecuadamente la autoría original del recurso y que, en caso de modificarlo o generar una obra derivada, la difundas exactamente bajo esta misma licencia original.</p>
+<p><strong>Descarga del Material Editable</strong><br />Para facilitar la reutilización docente y permitir que adaptes, amplíes o modifiques los paneles de comunicación o las tareas según las necesidades individuales de tu propio alumnado, comparto el archivo fuente ejecutable del proyecto.</p>
+<p>Haz clic en el siguiente enlace para descargar el archivo en formato editable para eXeLearning (.elp), el cual podrás abrir y guardar directamente en tu ordenador:</p>
+<p><a href="https://drive.google.com/file/d/19CL6PBv7sKEZI7oWA6gx-ju0sxAYYrz4/view?usp=sharing" title="">la-primavera-en-mi-voz.elp</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780324734305-1uacnpc59","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso educativo abierto ha sido creado y desarrollado como producto final para la actividad formativa en Competencia Digital Docente, sirviendo como una propuesta real y transferible para las Aulas Específicas de Educación Especial (AEEE).</p>\n<p><strong>Datos del Proyecto y Autoría</strong><br />La autoría y el diseño pedagógico de esta Situación de Aprendizaje, titulada \"La Primavera en mi Voz\", corresponden íntegramente a Sara Carrillo Tejero, en calidad de maestra especialista en Pedagogía Terapéutica (PT) tutora de una AEEE.</p>\n<p>El proyecto ofrece una propuesta metodológica centrada en la estimulación sensorial del entorno natural inmediato y el desarrollo de la competencia comunicativa digital. A través de un enfoque basado en el Diseño Universal para el Aprendizaje (DUA), se integra el uso funcional de Sistemas Alternativos y Aumentativos de Comunicación (SAAC) mediante Asterics Grids, el diseño accesible en Canva y el apoyo de la Inteligencia Artificial con Gemini para la co-creación de historias.</p>\n<p><strong>Licencia de Uso</strong><br />Esta obra se distribuye bajo la licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0). Como docente, tienes total libertad para compartir, copiar, redistribuir, remezclar, transformar y crear nuevo material a partir de este proyecto para finalidad educativa. El único requisito es que reconozcas adecuadamente la autoría original del recurso y que, en caso de modificarlo o generar una obra derivada, la difundas exactamente bajo esta misma licencia original.</p>\n<p><strong>Descarga del Material Editable</strong><br />Para facilitar la reutilización docente y permitir que adaptes, amplíes o modifiques los paneles de comunicación o las tareas según las necesidades individuales de tu propio alumnado, comparto el archivo fuente ejecutable del proyecto.</p>\n<p>Haz clic en el siguiente enlace para descargar el archivo en formato editable para eXeLearning (.elp), el cual podrás abrir y guardar directamente en tu ordenador:</p>\n<p><a href=\"https://drive.google.com/file/d/19CL6PBv7sKEZI7oWA6gx-ju0sxAYYrz4/view?usp=sharing\" title=\"\">la-primavera-en-mi-voz.elp</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
